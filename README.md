@@ -19,7 +19,7 @@ Simply clone the repository and run the main file:
 
 STEP 1:
 ```sh
-git clone https://github.com/prdpjngd/fileherobot.git
+git clone https://github.com/akashranjanofficial/fileherobot/
 cd fileherobot
 virtualenv -p /usr/bin/python3 venv
 source venv/bin/activate
